@@ -4,7 +4,7 @@
   "description": "Interact with old branches in your Git repo",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --passWithNoTests"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/douglasnaphas/prune-branches/issues"
   },
-  "homepage": "https://github.com/douglasnaphas/prune-branches#readme"
+  "homepage": "https://github.com/douglasnaphas/prune-branches#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
 }
