@@ -19,7 +19,8 @@
     "url": "https://github.com/douglasnaphas/prune-branches/issues"
   },
   "homepage": "https://github.com/douglasnaphas/prune-branches#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "jest": "^24.9.0"
   }
 }
