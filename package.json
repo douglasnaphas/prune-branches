@@ -1,0 +1,22 @@
+{
+  "name": "prune-branches",
+  "version": "1.0.0",
+  "description": "Interact with old branches in your Git repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasnaphas/prune-branches.git"
+  },
+  "keywords": [
+    "Git"
+  ],
+  "author": "Douglas Naphas <douglasnaphas@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/douglasnaphas/prune-branches/issues"
+  },
+  "homepage": "https://github.com/douglasnaphas/prune-branches#readme"
+}
